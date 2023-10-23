@@ -1,9 +1,11 @@
 # M08
-## README i CHANGELOG
+## README.md
 ***
 Aquest es l'arxiu README.md per la pràctica README i CHANGELOG.
 
 Com a instal·lació he utilitzat el programa Git, el ONLYOFFICE, el MonkeyWrite3 i Brave.
+
+**Autor: Eloi Figueroa Dorado** // Programador web
 
 **Per aixecar la web es necessita seguir els vostres passos:**
 1. Hem de crear el codi html i php, i donar-li el seu corresponent estil (css).
